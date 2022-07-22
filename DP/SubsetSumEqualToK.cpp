@@ -37,3 +37,23 @@ bool subsetSumToK(int n, int k, vector<int> &a) {
 }
 //TC O(n*k)
 //Sc O(n*k) 
+
+
+//Space Optimization
+
+bool subsetSumToK(int n, int k, vector<int> &nums) {
+    // Write your code here.
+        vector<bool> prev(k+1,0), curr(k+1,0);
+        prev[0]=curr[0]=true;
+        prev[nums[0]] = true;
+        for(int i=1;i<n;i++){
+            for(int target =1 ; target<=k; target++){
+                bool notTake = prev[target];
+                bool take = false;
+                if(target >= nums[i]) take = prev[target-nums[i]];
+                curr[target] = take || notTake;
+            }
+            prev=curr;
+        }
+        return prev[k];
+}
