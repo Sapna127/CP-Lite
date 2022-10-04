@@ -1,9 +1,4 @@
 # CP-Lite
-<img  align="left" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=LakhanKumawat&repo=LearnCPP&countColorcountColor&countColor=%237B1E7B"/>
-
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-84-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
 ![DAta structures](https://user-images.githubusercontent.com/91309280/193778610-d126831f-60c2-4440-b9ab-630d09640a4b.png)
@@ -54,7 +49,7 @@
 |----------------|-------------------------------|
 |New Algorithm|`'Please see if the algorithm is already present'`|
 | What to include |`"Your algorithm should be efficiently written with proper code / comments / time complexity / space complexity / link to gfg or any other documentation on top in code file"`            |
-|Where to include         |please commit your algorithm in the correct folder`|
+|Where to include         |`'please commit your algorithm in the correct folder'`|
 | README | `"Please check whether your directory has a README file, if there is then edit your algorithm name with a link, otherwise create a new one "`
 
 ### Problem Statement 
