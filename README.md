@@ -23,10 +23,10 @@
 
 | <img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="45" title="YouTube" /> Youtube channels | <img src="https://edent.github.io/SuperTinyIcons/images/png/github.png" width="45" />   Github Repos | <img src="https://img.icons8.com/color/48/000000/badminton-2.png"/> Best Coding Playgrounds |
 | --- | --- |----|
-| [Luv](https://www.youtube.com/c/LuvIsMe) | [Codecademy](https://github.com/Codecademy/learn-cpp) | [Leetcode](https://leetcode.com/problemset/all/) |
-| [TakeUForward](https://www.youtube.com/c/takeUforward) | [johnmcfarlane/begin(C++)](https://gist.github.com/johnmcfarlane/1b2d9c83e4d3f700ba61e2df4077c613) | [HackerRank](https://www.hackerrank.com/dashboard) |
-|[Aditya Verma](https://www.youtube.com/c/AdityaVermaTheProgrammingLord)|[ratansingh98/CPP-Learning](https://github.com/ratansingh98/CPP-Learning)|[CodeChef](https://www.codechef.com/)|
-|[neetCode](https://www.youtube.com/c/neetcode)|[sahilbansal17/Get_Better_at_CP_in_2_Months](https://github.com/sahilbansal17/Get_Better_at_CP_in_2_Months)|[CodeForces](https://www.codeforces.com/)|
+| [Luv](https://www.youtube.com/c/LuvIsMe) | [Competitive Programming contests](https://github.com/avinash201199/Competitions-and-Programs-List) | [Leetcode](https://leetcode.com/problemset/all/) |
+| [TakeUForward](https://www.youtube.com/c/takeUforward) | [Striver/SDE Sheet](https://github.com/striver79/SDESheet) | [HackerRank](https://www.hackerrank.com/dashboard) |
+|[Aditya Verma](https://www.youtube.com/c/AdityaVermaTheProgrammingLord)|[Competitve Programming](https://github.com/kothariji/competitive-programming)|[CodeChef](https://www.codechef.com/)|
+|[neetCode](https://www.youtube.com/c/neetcode)|[karunkarthik/DSA Notes](https://github.com/karunkarthik-git/dsa-notes)|[CodeForces](https://www.codeforces.com/)|
   
 <!--- Tables Offline best ide-->
 | <img src="https://img.icons8.com/fluent/48/000000/programming-flag.png"/>Coding IDE's | <img src="https://img.icons8.com/color/48/000000/generic-sorting.png"/>Algorithms | <img src="https://img.icons8.com/fluent/48/000000/notepad.png" width="45" alt="articles" />Useful articles
