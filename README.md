@@ -1,6 +1,10 @@
 # CP-Lite
 <img  align="left" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=LakhanKumawat&repo=LearnCPP&countColorcountColor&countColor=%237B1E7B"/>
 
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-84-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 
 ![DAta structures](https://user-images.githubusercontent.com/91309280/193778610-d126831f-60c2-4440-b9ab-630d09640a4b.png)
 
@@ -15,9 +19,6 @@
 
 </p>
 
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-84-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
 <div align="center">
@@ -75,7 +76,7 @@
 - If you want to implement an algorithm, data structure etc.., which is not yet there, then you can open up a PR regarding the same.
  
 ## Want to contribute?
-- Take a look at [`contributing guidelines`](contribute.md) if you're interested in helping!
+- Take a look at [`contributing guidelines`](Contribute.md) if you're interested in helping!
 - Refer [GitHub Flow](https://guides.github.com/introduction/flow). 
 
 
