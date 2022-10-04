@@ -75,7 +75,7 @@
 - If you want to implement an algorithm, data structure etc.., which is not yet there, then you can open up a PR regarding the same.
  
 ## Want to contribute?
-- Take a look at [`contributing guidelines`](Contributing.md) if you're interested in helping!
+- Take a look at [`contributing guidelines`](Contributions.md) if you're interested in helping!
 - Refer [GitHub Flow](https://guides.github.com/introduction/flow). 
 
 
