@@ -1,18 +1,7 @@
 <h1 align='center'>CP-Lite</h1>
 
-
+![CP-Lite](https://socialify.git.ci/Sapna127/CP-Lite/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark)
 ![image](https://user-images.githubusercontent.com/91309280/193785965-ee41f323-4a62-4c6d-94c7-87a481a3a827.png)
-
-
-<!-------------Swags------------------------->
-
-<p align="center">
-
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" alt=" forks"/>
-<img src="https://forthebadge.com/images/badges/made-with-c-plus-plus.svg" alt=" forks"/>
-<img src="https://forthebadge.com/images/badges/makes-people-smile.svg" alt=" forks"/>
-
-</p>
 
 
 
