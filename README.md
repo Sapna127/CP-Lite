@@ -54,8 +54,8 @@
 |----------------|-------------------------------|
 |New Algorithm|`'Please see if the algorithm is already present'`|
 | What to include |`"Your algorithm should be efficiently written with proper code / comments / time complexity / space complexity / link to gfg or any other documentation on top in code file"`            |
-|Where to include         |please commit your algorithm in the correct folder or discuss` [here](https://github.com/Lakhankumawat/LearnCPP/discussions/7) `before committing to where to include`|
-| README | `"Please check whether your directory has a README file, if there is then edit your algorithm name with a link, otherwise create a new one "
+|Where to include         |please commit your algorithm in the correct folder`|
+| README | `"Please check whether your directory has a README file, if there is then edit your algorithm name with a link, otherwise create a new one "`
 
 ### Problem Statement 
 
@@ -63,11 +63,10 @@
 |----------------|-------------------------------|
 |New Problem Statement|`'Please see if the problem is present already? If it is do not commit your own '`|
 | What to include |`"Your problem statement solution should be efficiently written with proper code / comments / time complexity / space complexity / link to problem statement in code file"`            |
-|Where to include         |`Most of the Problem Statements are inside`[here](https://github.com/Lakhankumawat/LearnCPP/tree/main/P-Problem%20Statements%20%26%20Solution)`please commit your problem solution in the correct folder or discuss` [here](https://github.com/Lakhankumawat/LearnCPP/discussions/7) `before committing for where to include`|
-| README | `"Please check whether your directory has a README file, if there is then edit your algorithm name with a link, otherwise create a new one "` [how your README should look like](https://github.com/Lakhankumawat/LearnCPP/blob/main/B-Backtracking/README.md)
+|Where to include         |`please commit your problem solution in the correct folder or discuss` [here](https://github.com/Lakhankumawat/LearnCPP/discussions/7) `before committing for where to include`|
+| README | `"Please check whether your directory has a README file, if there is then edit your algorithm name with a link, otherwise create a new one "`
 
-
-### To add programs using ```STL```, follow the same approach as  ```Algorithms```
+### To add ```DATA Stuctures``` or programs using ```STL```, follow the same approach as  ```Algorithms```
 
 
 ## Why contribute?
