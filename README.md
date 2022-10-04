@@ -1,7 +1,7 @@
-# CP-Lite
+<h1 align='center'>CP-Lite</h1>
 
 
-![DAta structures](https://user-images.githubusercontent.com/91309280/193778610-d126831f-60c2-4440-b9ab-630d09640a4b.png)
+![image](https://user-images.githubusercontent.com/91309280/193785965-ee41f323-4a62-4c6d-94c7-87a481a3a827.png)
 
 
 <!-------------Swags------------------------->
