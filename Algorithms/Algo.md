@@ -46,7 +46,7 @@ It does so by iteratively marking as composite (i.e., not prime) the multiples o
  ```
 
 ```
-//Time Complexity : O(n*log(log(n)))
-//Space Complexity :O(n)
+Time Complexity : O(n*log(log(n)))
+Space Complexity :O(n)
 ```
  
