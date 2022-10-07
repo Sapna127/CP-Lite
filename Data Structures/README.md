@@ -1,7 +1,6 @@
 # Table of content
 - [Stack](##stack)
-- [Count Set Bits](#count-set-bits)
-- [Maximize Expression](#maximize-expression)
+- [Linked List](#linked-list)
 
 ## Stack 
 
