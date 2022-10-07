@@ -1,41 +1,35 @@
-# Problem statements with explaination 
+# Table of content
+- [Count Set Bits](#count-set-bits)
 
-## Format should be -
 
-- problem statement 
-- Example
-- Approach 
-- Time & Space Complexity
+# Count Set Bits
 
-# Table of contents:
-- [Convert 24hr to 12 hr time format](Convert-24hr-time-to-12-hr-time-Format)
+## Problem Statement 
+Given a positive integer N, print count of set bits in it. Set Bits are the no. of bits that are 1.
 
-## Convert 24hr time to 12 hr time Format:
+## Examples
+Example 1 : Input : N = 6
 
-### Problem Statement
-<pre>
-Given a time in 24 hour format, convert it to 12 hour time format.
-</pre>
+            Output : 2
 
-### Examples
-<pre>
-Enter time in 24 hr format(hh:mm:ss)= 16:23:20
-Time in 12hr format is = 4:23:20 PM
-</pre>
-<pre>
-Enter time in 24 hr format(hh:mm:ss)= 00:12:45
-Time in 12hr format is = 24:12:45 AM
-</pre>
+Example 2 :  Input : N = 8
 
-### Approach
+             Output : 1
+             
+ ![image](https://user-images.githubusercontent.com/94545831/169095943-17f56cab-2bea-4ce6-bf8a-cbbfb5abfd9c.png)
 
-  The approach to solving this problem requires some observations.
-* First that the minutes and seconds will be same in both the cases.
-* The only change will be in the hours and according to that <pre>Meridien(i.e. AM/PM)</pre> will be appended to the string.
-* For hours, first convert it from string to int datatype, then take its modulo with 12 and that will be our hours in 12-hour format. Still, there will be a case when hour becomes 00 i.e (12 or 00 in 24-hour format) which we need to handle separately.
+            
+## Algorithm
+   - This algorithm is of fast approach as mentioned in code.
+- Given a number N.
+- Run the while loop till number is greater than 0.
+- Do Bitwise AND operation of that number to its preceding number.
+- Assign the result to that original number.
+- Increment the counter by 1.
+- Return the counter.
 
-### Complexity
-<pre>
-Time Complexity  : O(1)
+## Time Complexity and Space Complexity
+Time Complexity : O(n log n)
+
 Space Complexity : O(1)
-</pre>
+
