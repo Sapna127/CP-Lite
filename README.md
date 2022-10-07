@@ -31,6 +31,16 @@
 - Techiques to solve problems
 - Short Tricks
 
+## Path 
+Go through the repo folders this way -
+1. Decide the thing you want to contribute like algorithm, problem statement etc.
+2. Open the required folder -
+   There you will find the algorithms that I want to add you can fetch the issue and add the same
+3. For the understanding of other people please update the readme file as soon as you add something new in the folder. 
+   You can find seperate readme file for each folder add some theory for everything you will add.
+Following this steps the repo will be readable to everyone.
+
+
 ## Read the following steps before contributing.
 ### Algorithms
 
