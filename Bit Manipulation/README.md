@@ -1,5 +1,6 @@
 # Table of content
 - [Count Set Bits](#count-set-bits)
+- [Check power of 2](#power-of-2)
 
 
 # Count Set Bits
@@ -30,6 +31,26 @@ Example 2 :  Input : N = 8
 
 ## Time Complexity and Space Complexity
 Time Complexity : O(n log n)
+
+Space Complexity : O(1)
+
+
+# Power of 2
+
+## Problem Statement 
+Write a program to check if given number is power of 2.
+
+## Examples
+Example 1 : Input : N = 6
+
+            Output : 0
+
+Example 2 :  Input : N = 16
+
+             Output : 1
+          
+## Time Complexity and Space Complexity
+Time Complexity : O(1)
 
 Space Complexity : O(1)
 
