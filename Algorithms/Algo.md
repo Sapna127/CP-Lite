@@ -2,17 +2,6 @@
 # Table of content:
 -[Sieve Of Eratosthenes](#sieve-of-eratosthenes)
 
- -[Armstrong Number](#armstrong-number)
- 
- -[Bisection Method](#bisection-method)
-
-#  Sieve Of Eratosthenes :
-- [Sieve Of Eratosthenes](#sieve-of-eratosthenes)
-  - [Algorithm](#algorithm)
-  - [Advantages](#advantages)
-  - [Disadvantages](#disadvantage)
-  - [Problems](#problems)
-
 # Sieve Of Eratosthenes :
 The sieve of Eratosthenes is an algorithm for finding all prime numbers up to any given limit. 
 It does so by iteratively marking as composite (i.e., not prime) the multiples of each prime, starting with the first prime number, 2.
