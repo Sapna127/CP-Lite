@@ -54,7 +54,7 @@ Example 2 :  Input : N = 16
 - If it has only one set bit then return 0.
 - otherwise return 1.
  
-## Time Complexity and Space Complexity.\
+## Time Complexity and Space Complexity
 Time Complexity : O(1)
 
 Space Complexity : O(1).
