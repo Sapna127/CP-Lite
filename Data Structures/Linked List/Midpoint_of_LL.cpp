@@ -1,3 +1,6 @@
+// TC(Time Complexity) = O(n)
+// SC(Space Complexity) = O(1)
+
 #include <iostream>
 using namespace std;
 class Node
