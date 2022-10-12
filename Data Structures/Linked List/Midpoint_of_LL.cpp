@@ -1,6 +1,6 @@
 // TC(Time Complexity) = O(n)
 // SC(Space Complexity) = O(1)
-
+// Algorithm:- Two Pointers
 #include <iostream>
 using namespace std;
 class Node
