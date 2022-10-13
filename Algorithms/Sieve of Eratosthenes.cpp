@@ -1,34 +1,41 @@
-int count_primes(int n) {
-    const int S = 10000;
 
-    vector<int> primes;
-    int nsqrt = sqrt(n);
-    vector<char> is_prime(nsqrt + 2, true);
-    for (int i = 2; i <= nsqrt; i++) {
-        if (is_prime[i]) {
-            primes.push_back(i);
-            for (int j = i * i; j <= nsqrt; j += i)
-                is_prime[j] = false;
+// C++ program to print all primes smaller than or equal to
+// n using Sieve of Eratosthenes
+#include <bits/stdc++.h>
+using namespace std;
+ 
+void SieveOfEratosthenes(int n)
+{
+    // Create a boolean array "prime[0..n]" and initialize
+    // all entries it as true. A value in prime[i] will
+    // finally be false if i is Not a prime, else true.
+    bool prime[n + 1];
+    memset(prime, true, sizeof(prime));
+ 
+    for (int p = 2; p * p <= n; p++) {
+        // If prime[p] is not changed, then it is a prime
+        if (prime[p] == true) {
+            // Update all multiples of p greater than or
+            // equal to the square of it numbers which are
+            // multiple of p and are less than p^2 are
+            // already been marked.
+            for (int i = p * p; i <= n; i += p)
+                prime[i] = false;
         }
     }
-
-    int result = 0;
-    vector<char> block(S);
-    for (int k = 0; k * S <= n; k++) {
-        fill(block.begin(), block.end(), true);
-        int start = k * S;
-        for (int p : primes) {
-            int start_idx = (start + p - 1) / p;
-            int j = max(start_idx, p) * p - start;
-            for (; j < S; j += p)
-                block[j] = false;
-        }
-        if (k == 0)
-            block[0] = block[1] = false;
-        for (int i = 0; i < S && start + i <= n; i++) {
-            if (block[i])
-                result++;
-        }
-    }
-    return result;
+ 
+    // Print all prime numbers
+    for (int p = 2; p <= n; p++)
+        if (prime[p])
+            cout << p << " ";
+}
+ 
+// Driver Code
+int main()
+{
+    int n = 30;
+    cout << "Following are the prime numbers smaller "
+         << " than or equal to " << n << endl;
+    SieveOfEratosthenes(n);
+    return 0;
 }
