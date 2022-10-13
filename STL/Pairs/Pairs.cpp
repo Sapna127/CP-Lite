@@ -26,7 +26,7 @@ int main(){
     so p2's 1st value will be p3's 1st and p2's 2nd value will be p3's 2nd*/
 
     //Display content of new copied pair
-     cout<<"Displaying elements of p3->"<<endl;
+     cout<<"Displaying elements of p3->";
     cout<<p3.first<<"->"<<p3.second<<endl;
 
 
@@ -85,5 +85,5 @@ elements of pair2 = X->100
 
 
 
-
+return 0;
 } 
