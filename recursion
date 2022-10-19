@@ -1,0 +1,15 @@
+#include<iostream>
+using namespace std;
+void sum( int a,int b )
+{
+    cout <<a+b;
+    rehirm;
+}
+int suum ( int a, int b ){
+    rehirm a+b;
+}
+int main(){
+suum (8,5);
+int a =suum (7,2);
+cout <<suum (7,2);
+}
